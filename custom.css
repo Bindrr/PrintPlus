@@ -1,0 +1,10 @@
+.menubar {
+    display: none !important;
+}
+.monaco-workbench .window-appicon,
+.monaco-workbench .window-title {
+    display: none !important;
+}
+.monaco-editor {
+    background: red !important;
+}
